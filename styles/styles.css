@@ -179,7 +179,9 @@ footer{
     }
 
     footer{
-        position:static;
+        position:relative;
+        bottom: 0;
+}
 }
 
 @media (max-width: 400px) {
@@ -190,6 +192,6 @@ footer{
     main .bg-cont .form-main{
         width: 100%;
     }
-}
 
 }
+
