@@ -160,6 +160,10 @@ footer{
         overflow: scroll;
     }
 
+    main{
+        margin-bottom: 25px;
+    }
+
     main .bg-cont{
         display: grid;
         grid-template-columns: 1fr;
@@ -180,8 +184,7 @@ footer{
     }
 
     footer{
-        position:relative;
-        bottom: 0;
+        position:static;
 }
 }
 
