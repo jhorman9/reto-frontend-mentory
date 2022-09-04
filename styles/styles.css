@@ -72,6 +72,7 @@ main .bg-cont .text-main{
     flex-direction: column;
     width: 75%;
     margin: auto;
+    margin-bottom: 25px;
 }
 
 main .bg-cont .text-main h2{
